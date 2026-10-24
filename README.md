@@ -2,6 +2,8 @@
 
 An end-to-end machine learning project that analyzes and predicts airline ticket prices and travel details for domestic flights in India. It covers the full pipeline: exploratory data analysis (EDA), data cleaning, model training, and deployment as an interactive **Streamlit** web app.
 
+<img width="1512" height="788" alt="image" src="https://github.com/user-attachments/assets/47d4c0a4-0a20-48b1-9362-077cc11c3ff1" />
+
 ---
 
 ## 📌 Overview
