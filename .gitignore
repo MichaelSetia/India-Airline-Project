@@ -1,0 +1,7 @@
+.venv/
+archive/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+rf_default_model.pkl
+rf_best_model.pkl
